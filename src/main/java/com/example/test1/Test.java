@@ -13,6 +13,6 @@ public class Test {
 
     @RequestMapping("/index")
     public String index(){
-        return "测试修改1";
+        return "测试修改2";
     }
 }
